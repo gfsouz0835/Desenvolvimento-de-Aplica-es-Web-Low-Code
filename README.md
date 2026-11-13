@@ -93,6 +93,12 @@ excluirtarefa
 
 ---
 
+## Vscode
+Como Editar este README
+Abra a pasta do projeto no VS Code
+Clique no arquivo README.md no explorador de arquivos
+---
+
 ## Link da Aplicação
 
 `https://personal-tlmophnh-dev.outsystems.app/OrganizaTarefas/`
