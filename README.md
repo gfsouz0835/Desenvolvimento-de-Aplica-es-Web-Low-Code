@@ -70,14 +70,15 @@ A **prioridade automática por prazo** é definida na Server Action **SalvarTare
 ## Server Actions
 SalvarTarefa
 
-<img width="1317" height="796" alt="salvartarefa" src="https://github.com/user-attachments/assets/08887ffc-a170-4b29-b4dd-464afc6cc1ac" />
+<img width="1317" height="796" alt="salvartarefa" src="https://github.com/user-attachments/assets/ee8fc9b1-0038-4ec5-8020-b7b77acedc51" />
+
 
 criartarefa
-<img width="1319" height="816" alt="criartarefa" src="https://github.com/user-attachments/assets/3a3ece76-9bc1-463b-9ea3-9d162a73cdcb" />
+<img width="1319" height="816" alt="criartarefa" src="https://github.com/user-attachments/assets/885a9217-c49f-418a-959e-ef46a367c1bc" />
 
 excluirtarefa
-<img width="1312" height="572" alt="excluirtarefa" src="https://github.com/user-attachments/assets/dd30ad18-ec59-4199-8446-3235cf35f782" />
 
+<img width="1312" height="572" alt="excluirtarefa" src="https://github.com/user-attachments/assets/59399504-0355-48ec-8478-04a539abb499" />
 
 ---
 
